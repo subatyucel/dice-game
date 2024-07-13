@@ -1,1 +1,2 @@
-This project is for practicing DOM in Js. Click Roll Dice button and have fun :D
+- This project is for practicing JavaScript DOM manipulation with lessons from [@angelabauer](https://github.com/angelabauer).
+- Just click Roll Dice button and have fun :D
